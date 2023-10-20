@@ -8,6 +8,6 @@ public class PassWebApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(PassWebApplication.class, args);
-    }
+    } 
 
 }
